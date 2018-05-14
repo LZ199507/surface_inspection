@@ -2,5 +2,5 @@
 Doorknob surface_inspection
 
 python3 
-opencv
+opencv3.2
 
